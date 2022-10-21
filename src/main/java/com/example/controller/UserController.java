@@ -13,7 +13,7 @@ import com.example.entity.User;
 import com.example.service.UserService;
 
 @RestController
-@RequestMapping("/user")
+@RequestMapping("/hash")
 public class UserController {
 	
 	
